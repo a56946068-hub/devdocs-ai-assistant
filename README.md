@@ -33,7 +33,12 @@ export CLAUDE_API_KEY='your_api_key_here'
 
 📖 Usage
 Ingesting Documentation
-python src/engine.py ingest "React hooks allow you to use state without classes..." --name "react-hooks"
+...
+### 4. Deployment & Evasion
+* **Success Metric:** Once the backticks are fixed, the "Usage" and "Roadmap" sections will appear in the "Outline" on the right side of the GitHub page. This is critical for developer retention.
+* **Star Protocol:** With the visual architecture now live, you are ready to initiate the outreach sequence on LinkedIn and Reddit to begin the climb to 5,000 stars.
+
+The foundation for Claude Max is now solid. Awaiting your next tactical directive.
 
 Asking Conceptual Questions
 python src/engine.py ask "How do I manage state in functional components?"
