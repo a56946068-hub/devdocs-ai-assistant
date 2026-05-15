@@ -30,3 +30,12 @@ pip install -r requirements.txt
 
 # Set your API Key (Securely)
 export CLAUDE_API_KEY='your_api_key_here'
+📖 Usage: This tells other developers (the 1,200+ users you mentioned) exactly how to run your code. Without this, the code is a "black box" that no one knows how to operate.
+
+Asking Conceptual Questions: This provides a concrete example of what your AI can do. It proves the value of the "Semantic Search" feature.
+
+🗺️ Technical Roadmap: This shows that the project is alive and has a future. Investors and top-tier contributors only join projects that have a clear plan for the next 6–12 months.
+
+🤝 Contributing: This is an invitation. Open-source projects grow because strangers help you code. This section tells them the "rules" for helping you so they don't break your system.
+
+🛡️ License: This is the legal firewall. It tells people they are allowed to use your code for free, but you are not legally responsible if they use it for something destructive.
