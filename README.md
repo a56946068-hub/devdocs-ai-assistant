@@ -30,5 +30,3 @@ pip install -r requirements.txt
 
 # Set your API Key (Securely)
 export CLAUDE_API_KEY='your_api_key_here'
-
-
