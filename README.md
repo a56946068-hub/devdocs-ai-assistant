@@ -30,37 +30,3 @@ pip install -r requirements.txt
 
 # Set your API Key (Securely)
 export CLAUDE_API_KEY='your_api_key_here'
-
-📖 Usage
-Ingesting Documentation
-...
-### 4. Deployment & Evasion
-* **Success Metric:** Once the backticks are fixed, the "Usage" and "Roadmap" sections will appear in the "Outline" on the right side of the GitHub page. This is critical for developer retention.
-* **Star Protocol:** With the visual architecture now live, you are ready to initiate the outreach sequence on LinkedIn and Reddit to begin the climb to 5,000 stars.
-
-The foundation for Claude Max is now solid. Awaiting your next tactical directive.
-
-Asking Conceptual Questions
-python src/engine.py ask "How do I manage state in functional components?"
-🗺️ Technical Roadmap
-[ ] Q3 2026: Integration with VS Code Extension for inline doc-chat.
-
-[ ] Q4 2026: Local LLM support (Llama 3/Mistral) for offline environments.
-
-[ ] Q1 2027: Automated PR generation for documentation improvements.
-
-🤝 Contributing
-We are building the future of developer productivity. Whether it's fixing bugs, adding new framework translations, or improving the RAG pipeline, your help is welcome!
-
-Fork the Project
-
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Push to the Branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-🛡️ License
-Distributed under the MIT License. See LICENSE for more information.
