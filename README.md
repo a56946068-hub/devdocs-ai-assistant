@@ -30,15 +30,3 @@ pip install -r requirements.txt
 
 # Set your API Key (Securely)
 export CLAUDE_API_KEY='your_api_key_here'
----
-
-## 📖 Usage
-
-### Ingesting Documentation
-```bash
-python src/engine.py ingest "React hooks allow you to use state without classes..." --name "react-hooks"
-
-
-🤝 Contributing: This is an invitation. Open-source projects grow because strangers help you code. This section tells them the "rules" for helping you so they don't break your system.
-
-🛡️ License: This is the legal firewall. It tells people they are allowed to use your code for free, but you are not legally responsible if they use it for something destructive.
